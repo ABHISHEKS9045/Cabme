@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "cabme": "camble-appp",
+    "default": "camble-appp"
+  },
+  "targets": {},
+  "etags": {}
+}
